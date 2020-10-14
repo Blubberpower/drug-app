@@ -23,7 +23,7 @@ function searchFunction() {
 
   function checkinfo() {
 
-    alert("INFO GOOD");
+    alert("PAYMENT PROCESSED");
     isPaid = true;
     searchFunction();
     var ass = document.querySelectorAll(".page")[0];
